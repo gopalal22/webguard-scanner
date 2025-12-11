@@ -18,6 +18,6 @@ Designed for learning, research, and ethical testing, WebGuard Scanner helps dev
 
 # OUTPUT
 
-<img width="1390" height="634" alt="Image" src="https://github.com/user-attachments/assets/52b5bef9-8881-4aed-91d2-0b0f8b826008" />
+<img width="1457" height="605" alt="Image" src="https://github.com/user-attachments/assets/05d74063-7b1c-4b8d-af39-b1a55a9e9e85" />
 
 <img width="1390" height="634" alt="Image" src="https://github.com/user-attachments/assets/52b5bef9-8881-4aed-91d2-0b0f8b826008" />
