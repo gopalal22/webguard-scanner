@@ -17,3 +17,7 @@ WebGuard Scanner is a Python-powered web application vulnerability assessment to
 Designed for learning, research, and ethical testing, WebGuard Scanner helps developers and security enthusiasts verify the security posture of their web applications. The tool is simple, fast, and easy to use—making it suitable for students, beginners, and professionals performing basic web security checks.
 
 # OUTPUT
+
+<img width="1390" height="634" alt="Image" src="https://github.com/user-attachments/assets/52b5bef9-8881-4aed-91d2-0b0f8b826008" />
+
+<img width="1390" height="634" alt="Image" src="https://github.com/user-attachments/assets/52b5bef9-8881-4aed-91d2-0b0f8b826008" />
